@@ -11,6 +11,8 @@ You need to store database data in this format no matter what. Otherwise, the sc
 - enddate (end date of the license, when is license due.) (datetime)
   
 Example of proper database:
+
+
 ![image](https://github.com/MagicznyJasiek/python-license-system/assets/61098959/e42fb6f5-8f99-4863-aadc-283524e997dd)
 
 ## How to add my normal script to this?
