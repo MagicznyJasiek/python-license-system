@@ -29,7 +29,7 @@ pip install mysql.connector
 
 ## Common errors:
 
-> When I click check, the window is frozen and nothing happens.
+### When I click check, the window is frozen and nothing happens.
 You probably entered the database information wrong. See valid database storing or check your database data.
-> When my license is valid, the gui disappears and nothing happens.
+### When my license is valid, the gui disappears and nothing happens.
 Once the script detects a good license, the **main_gui** function is triggered. Check if you have anything in this function as this is your main script code.
