@@ -33,3 +33,6 @@ pip install mysql.connector
 You probably entered the database information wrong. [See valid database storing or check your database data.](https://github.com/MagicznyJasiek/python-license-system?tab=readme-ov-file#how-to-store-database-data)
 ### When my license is valid, the gui disappears and nothing happens.
 Once the script detects a good license, the **main_gui** function is triggered. Check if you have anything in this function as this is your main script code.
+
+
+# If you enjoy using it, please give it a star on github!
